@@ -3,15 +3,15 @@
 Web Scraper for an Swiss financial institution
 
 ## Goal
-Create Web Scraper for daily price dashboard.
+Create web scraper for daily price dashboard.
 
 ## Data Sources
-- 13 Websites for financial information
-- ~300 Instruments
+- 13 financial price information websites
+- ~ 300 prices
 
-## Data Scaper
-- Developed with Python (Selenium, BeautifulSoup, YahooFinance API)
-- Colleccted data stored in CSV-files
+## Data Scraper
+- Developed with Python (Selenium, BeautifulSoup, Pandas, YahooFinance API)
+- Data stored in CSV-files
 
 ## Data Collection
 - Data is stored in CSV files
