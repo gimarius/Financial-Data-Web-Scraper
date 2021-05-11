@@ -1,7 +1,5 @@
 # Swiss-Financial-Data-Web-Scraping
 
-Web Scraper for an Swiss financial institution
-
 ## Goal
 Create web scraper for dashboard (daily price update)
 
@@ -17,3 +15,4 @@ Create web scraper for dashboard (daily price update)
 - Data is stored in CSV files
 
 
+Created for a financial institution
