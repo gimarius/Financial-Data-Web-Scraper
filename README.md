@@ -1,6 +1,15 @@
 # Swiss-Financial-Data-Web-Scraping
-Web Scraper for Financial Data - Web Scraping - Data Automation - Selenium - BeautifulSoup
 
+Web Scraper for an Swiss financial institution
 
-Project for financial institution
+## Goal
+Create Web Scraper for daily price dashboard.
+
+### Data Sources
+- 13 Websites
+
+### Data Scaper
+- Developed with Python (Selenium, BeautifulSoup, YahooFinance API)
+- Colleccted data stored in CSV-files
+
 
