@@ -3,7 +3,7 @@
 Web Scraper for an Swiss financial institution
 
 ## Goal
-Create web scraper for daily price dashboard.
+Create web scraper for dashboard (daily price update)
 
 ## Data Sources
 - 13 financial price information websites
